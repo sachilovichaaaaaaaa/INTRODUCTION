@@ -1,1 +1,1 @@
-# INTRODUCTION
+# mentoring-simple-webpack-starter
