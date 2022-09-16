@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "tgdftgrtgrtg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachilovichaaaaaaaa/INTRODUCTION.git"
+  },
+  "keywords": [
+    "hjmhjm"
+  ],
+  "author": "alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachilovichaaaaaaaa/INTRODUCTION/issues"
+  },
+  "homepage": "https://github.com/sachilovichaaaaaaaa/INTRODUCTION#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}
